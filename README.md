@@ -3,5 +3,5 @@
 ## Build
 
 ```sh
-cargo xtask waveschiesse --release
+cargo xtask bundle waveschiesse --release
 ```
